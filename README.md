@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 About Me
+🎓 Computer Science Student  
+📊 Aspiring Data Scientist  
+💡 Learning Data Analysis & Machine Learning  
 
-<!--
-**harshit20-05/harshit20-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/harshit-attri-7b298b272
+- GitHub: https://github.com/harshit20-05
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- Python, Java, C, C++
+- MySQL, SQL Server
+- NumPy, Pandas, Scikit-Learn
+- Machine Learning, Data Analysis
+ />
