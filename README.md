@@ -24,10 +24,6 @@ Computer Science Engineering student specializing in Data Science and Machine Le
 
 ### Connect With Me
 
-## Connect With Me
-
-## Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-attri-7b298b272">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -39,6 +35,5 @@ Computer Science Engineering student specializing in Data Science and Machine Le
     <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
 </p>
----
 
 *Turning data into insights and ideas into intelligent solutions.*
